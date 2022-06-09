@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d539d902.chunk.css",
-    "main.js": "/static/js/main.2651632f.chunk.js",
-    "main.js.map": "/static/js/main.2651632f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8be65647.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8be65647.js.map",
-    "static/js/2.91fa2559.chunk.js": "/static/js/2.91fa2559.chunk.js",
-    "static/js/2.91fa2559.chunk.js.map": "/static/js/2.91fa2559.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d539d902.chunk.css.map": "/static/css/main.d539d902.chunk.css.map",
-    "static/js/2.91fa2559.chunk.js.LICENSE.txt": "/static/js/2.91fa2559.chunk.js.LICENSE.txt"
+    "main.css": "/React-course-exercise/static/css/main.d539d902.chunk.css",
+    "main.js": "/React-course-exercise/static/js/main.2651632f.chunk.js",
+    "main.js.map": "/React-course-exercise/static/js/main.2651632f.chunk.js.map",
+    "runtime-main.js": "/React-course-exercise/static/js/runtime-main.d1775ae7.js",
+    "runtime-main.js.map": "/React-course-exercise/static/js/runtime-main.d1775ae7.js.map",
+    "static/js/2.91fa2559.chunk.js": "/React-course-exercise/static/js/2.91fa2559.chunk.js",
+    "static/js/2.91fa2559.chunk.js.map": "/React-course-exercise/static/js/2.91fa2559.chunk.js.map",
+    "index.html": "/React-course-exercise/index.html",
+    "static/css/main.d539d902.chunk.css.map": "/React-course-exercise/static/css/main.d539d902.chunk.css.map",
+    "static/js/2.91fa2559.chunk.js.LICENSE.txt": "/React-course-exercise/static/js/2.91fa2559.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be65647.js",
+    "static/js/runtime-main.d1775ae7.js",
     "static/js/2.91fa2559.chunk.js",
     "static/css/main.d539d902.chunk.css",
     "static/js/main.2651632f.chunk.js"
